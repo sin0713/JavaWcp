@@ -1,6 +1,8 @@
 
 public class chapter02 {
 	public static void main(String[] args) {
-		System.out.println("こんにちは");
+		System.out.println("WEBCAMP!");
+		System.out.println("Hello Java!");
+		
 	}
 }
