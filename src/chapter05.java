@@ -47,15 +47,6 @@ public class chapter05 {
 		int[] array1 = new int[] {10, 20, 30, 40, 50};
 		System.out.println(array1[3]);
 		System.out.println(Arrays.toString(array1));
-		
-		
-		
-
-
-
-
-
-
 
 	}
 
