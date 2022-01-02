@@ -7,7 +7,7 @@ public class classMethod04 {
 		Human04 yamada = new Human04("山田");
 		Human04.staticMethodPrint();
 		System.out.println(Human04.GREETING);
-		
+
 		yamada.instanceMethodPrint();
 	}
 }
