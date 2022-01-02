@@ -34,7 +34,6 @@ public class Chapter10 {
 		} else {
 			throw new IllegalArgumentException(i + "はサイズの範囲外です");
 		}
-		
 	}
 	
 	public static void throwSQLEcxeption() throws SQLException {
