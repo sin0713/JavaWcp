@@ -19,5 +19,4 @@ public class Chapter13 {
 	public static void staticCall(Phone phone, String number) {
 		phone.call(number);
 	}
-
 }
