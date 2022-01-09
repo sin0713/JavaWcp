@@ -17,7 +17,7 @@ public class Chapter14 {
     public static void partyAttack(List<Character> party) {
         for (Character character : party) {
             int hp = character.attack();
-            //System.out.println("ヒットポイント：" + hp);
+            System.out.println("ヒットポイント：" + hp);
         }
     }
 }
