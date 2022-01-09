@@ -33,9 +33,4 @@ public class Compare {
 		
 		System.out.println(animals);
 	}
-	
-	
-	
-	
-
 }
