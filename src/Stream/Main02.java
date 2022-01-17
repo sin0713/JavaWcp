@@ -32,7 +32,6 @@ public class Main02 {
 	             .collect(Collectors.toList());
 
 		System.out.println(sortedFruits);
-
 	}
 
 }
